@@ -15,8 +15,8 @@ blkid
 bmarzins
 cciss
 CFLAGS
-CLARiiON
 christophe
+CLA
 clangd
 clariion
 cmdline
@@ -56,7 +56,6 @@ EVPD
 failback
 failover
 fds
-FFFFFFFF
 fge
 followover
 forcequeueing
@@ -124,6 +123,7 @@ NOLOG
 nompath
 NOSCAN
 Nosync
+Ntricity
 nvme
 OBJDEPS
 ontap
@@ -136,9 +136,9 @@ pathgroup
 pgpolicy
 plugindir
 PNR
-prefixdir
 preferredip
 preferredsds
+prefixdir
 prgeneration
 Primera
 prioritizer
@@ -159,14 +159,14 @@ redhat
 restorequeueing
 retrigger
 rhabarber
+Rii
 rootprefix
 rootprefixdir
 rport
 rtpi
-SANtricity
 sas
-scsi
 sbp
+scsi
 sda
 sdc
 setmarginal
